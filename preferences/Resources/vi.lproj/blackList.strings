@@ -6,4 +6,6 @@
     "Disables_present." = "Vô hiệu hóa các cử chỉ khi có bàn phím.";
     "Disables_mode" = "Vô hiệu hóa HomeGestures khi ở chế độ ngang";
     "Disables_app" = "Vô hiệu hóa HomeGestures hoàn toàn trong ứng dụng";
+    "PIP_APPS" = "Vô hiệu hóa PIP trong ứng dụng được chỉ định";
+    "Disables_PIP_app" = "Ngăn chặn PIP làm sập một số ứng dụng";
 }
