@@ -11,4 +11,6 @@
     "Show_Centre" = "Hiển thị thanh trạng thái trong Trung tâm kiểm soát";
     "iPad_STYLE" = "Thanh trạng thái giống iPad";
     "Mimic_iPad" = "Sao chép thanh trạng thái của iPad, thêm ngày";
+    "Disable_IPX_IN_APPS" = "Vô hiệu hóa thanh trạng thái iPhone X trong các ứng dụng không tương thích (iOS 12)";
+    "Turn_ON_iPad_FallBack"= "Bạn cũng có thể bật thanh trạng thái iPad cho các ứng dụng đó dưới dạng dự phòng"; 
 }
